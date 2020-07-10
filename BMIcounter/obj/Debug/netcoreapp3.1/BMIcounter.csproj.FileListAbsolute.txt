@@ -1,0 +1,13 @@
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.exe
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.deps.json
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.runtimeconfig.json
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.runtimeconfig.dev.json
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.dll
+C:\tosts\dotnet\BMIcounter\BMIcounter\bin\Debug\netcoreapp3.1\BMIcounter.pdb
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.csprojAssemblyReference.cache
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.AssemblyInfoInputs.cache
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.AssemblyInfo.cs
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.csproj.CoreCompileInputs.cache
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.dll
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.pdb
+C:\tosts\dotnet\BMIcounter\BMIcounter\obj\Debug\netcoreapp3.1\BMIcounter.genruntimeconfig.cache
